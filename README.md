@@ -5,7 +5,7 @@ Identify a diverse range of tasks suitable for LLM execution (e.g., summarizatio
 Break down complex tasks into sub-tasks to facilitate prompt engineering.
 
 <B>Potential Benefits:</B>
-<h4>
+<h4><ul>
 -Improved LLM usability: Making LLMs more versatile and easier to use for various tasks.
 -Automated task execution: Enabling users to interact with AI systems through natural language commands.
--Enhanced user experience: Creating more intuitive interfaces for LLM-powered applications.</h4>
+-Enhanced user experience: Creating more intuitive interfaces for LLM-powered applications.</ul></h4>
