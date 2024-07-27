@@ -4,7 +4,8 @@ This project bridge the gap between human intent and machine execution by automa
 Identify a diverse range of tasks suitable for LLM execution (e.g., summarization, question answering, text generation, translation).
 Break down complex tasks into sub-tasks to facilitate prompt engineering.
 
-Potential Benefits:
+<B>Potential Benefits:</B>
+<h4>
 -Improved LLM usability: Making LLMs more versatile and easier to use for various tasks.
 -Automated task execution: Enabling users to interact with AI systems through natural language commands.
--Enhanced user experience: Creating more intuitive interfaces for LLM-powered applications.
+-Enhanced user experience: Creating more intuitive interfaces for LLM-powered applications.</h4>
